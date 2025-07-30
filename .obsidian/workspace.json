@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "c3157e762b54ce8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a2f835d273674b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77c935d9a3b1d57d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Car Gens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Car Gens"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6aad444250d06e7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6f32287d1c13182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fde2ad24ac4288f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b841c8424da31a28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4a93f59540295a6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "058279b294a553de",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f33b7c426a3376a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0d348bf353c2714",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Car Gens.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Car Gens"
+            }
+          },
+          {
+            "id": "b77cd56c2fc28640",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Car Gens.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Car Gens"
+            }
+          },
+          {
+            "id": "6049ea5f1693b25b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "88523eec47aee036",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Car Gens.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Car Gens"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "77c935d9a3b1d57d",
+  "lastOpenFiles": [
+    "Region/United States of America (USA).md",
+    "Region/South Africa.md",
+    "Region/Indonesia.md",
+    "Region/Chile.md",
+    "Region/Canada.md",
+    "Region/Australia.md",
+    "Untitled.md",
+    "SE Asia Languages.md",
+    "Region",
+    "Random.md",
+    "Nordic.md",
+    "Car Meta.md",
+    "Car Gens.md",
+    "Images/Pasted image 20250729163951.png",
+    "Images/Pasted image 20250729163919.png",
+    "Images/Pasted image 20250729163327.png",
+    "Images/Pasted image 20250729163318.png",
+    "Images/Pasted image 20250729163310.png",
+    "Images/Pasted image 20250729163236.png",
+    "Images/Pasted image 20250729163228.png",
+    "Images/Pasted image 20250729163209.png",
+    "Images/Pasted image 20250729163153.png",
+    "Images/Pasted image 20250729163140.png",
+    "Images"
+  ]
+}

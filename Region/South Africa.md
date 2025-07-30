@@ -1,0 +1,4 @@
+- english
+- very barren/desert climate, alot of oranges
+- "R" roads
+	- single yellow sides, triple white middle w/ center being dashed

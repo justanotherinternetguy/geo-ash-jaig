@@ -1,0 +1,2 @@
+- Gen 1: blurry, grainy, warped/blur on sides
+- 

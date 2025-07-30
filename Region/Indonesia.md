@@ -1,0 +1,4 @@
+-  Gg. = South, near Jakarta
+	- "Gang" = alleyway
+- ![[Pasted image 20250729142714.png]]
+- "Jl." = "Jalak"? "jalan" = road in Indoneian
