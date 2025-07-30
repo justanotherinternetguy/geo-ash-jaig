@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be55aec1f17cfc67",
+        "id": "dcc9951a6197ca48",
         "type": "tabs",
         "children": [
           {
-            "id": "bbf4cea3a581eec1",
+            "id": "8b0772c359ac861a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Region/United States of America (USA).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "United States of America (USA)"
+              "title": "New tab"
             }
           }
         ]
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Region/United States of America (USA).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of United States of America (USA)"
+              "title": "Outline"
             }
           },
           {
@@ -179,8 +174,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbf4cea3a581eec1",
+  "active": "8b0772c359ac861a",
   "lastOpenFiles": [
+    "Region/United States of America (USA).md",
     "Random.md",
     "SE Asia Languages.md",
     "Region/South Africa.md",
@@ -189,7 +185,6 @@
     "Country/Car Meta.md",
     "Country/Nordic.md",
     "Region/Australia.md",
-    "Region/United States of America (USA).md",
     "Region/Indonesia.md",
     "Region/Canada.md",
     "Region/Chile.md",
