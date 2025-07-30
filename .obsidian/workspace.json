@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dcc9951a6197ca48",
+        "id": "a7c3e1b39e839148",
         "type": "tabs",
         "children": [
           {
-            "id": "8b0772c359ac861a",
+            "id": "4c555033fe355fdd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Country/Car Meta.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Car Meta"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Country/Car Meta.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Car Meta"
             }
           },
           {
@@ -174,20 +179,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b0772c359ac861a",
+  "active": "4c555033fe355fdd",
   "lastOpenFiles": [
-    "Region/United States of America (USA).md",
+    "Images/Pasted image 20250730000501.png",
+    "Country/Car Gens.md",
+    "Region/Untitled.md",
     "Random.md",
+    "Images/Pasted image 20250729231650.png",
+    "Region/United States of America (USA).md",
+    "Country/Nordic.md",
+    "Region/Australia.md",
+    "Region/Chile.md",
+    "Region/Indonesia.md",
+    "Region/Canada.md",
     "SE Asia Languages.md",
     "Region/South Africa.md",
     "Country",
-    "Country/Car Gens.md",
     "Country/Car Meta.md",
-    "Country/Nordic.md",
-    "Region/Australia.md",
-    "Region/Indonesia.md",
-    "Region/Canada.md",
-    "Region/Chile.md",
     "Images/Pasted image 20250729204116.png",
     "Images/Pasted image 20250729204108.png",
     "Untitled.md",
@@ -199,7 +207,6 @@
     "Images/Pasted image 20250729163310.png",
     "Images/Pasted image 20250729163236.png",
     "Images/Pasted image 20250729163228.png",
-    "Images/Pasted image 20250729163209.png",
     "Images"
   ]
 }

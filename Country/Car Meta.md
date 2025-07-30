@@ -16,10 +16,15 @@ slight blue tint at front of car
 - white pickup + sides + center antenna
 - ![[Pasted image 20250729133628.png]]
 - ![[Pasted image 20250729133633.png]]
-- (could be kazakh too? confirm?)
-- namibia if africa
+# Kazakhstan
+- same truck as Oman
 
 # Turkey (NE)
 ![[Pasted image 20250729163919.png]]
 ![[Pasted image 20250729163951.png]]
 - gray ver of oman
+
+
+# Turkey
+- SW/south of izmir can have black oman
+![[Images/Pasted image 20250730000501.png]]
