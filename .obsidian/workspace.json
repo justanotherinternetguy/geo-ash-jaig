@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Country/United States of America (USA).md",
+                "file": "Country/Australia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "United States of America (USA)"
+              "title": "Australia"
             }
           }
         ]
@@ -181,10 +181,13 @@
   },
   "active": "b722687ed829103c",
   "lastOpenFiles": [
+    "Country/USA/Adopt a Highway.md",
+    "Country/Australia.md",
+    "Country/USA/United States of America (USA).md",
+    "Country/USA",
     "Country/South Africa.md",
     "Images/Pasted image 20250730013313.png",
     "Images/Pasted image 20250730013147.png",
-    "Country/United States of America (USA).md",
     "Images/Pasted image 20250730013646.png",
     "Images/Pasted image 20250730011141.png",
     "Languages.md",
@@ -195,7 +198,6 @@
     "Region/Untitled.md",
     "Images/Pasted image 20250729231650.png",
     "Meta/Nordic.md",
-    "Country/Australia.md",
     "Country/Chile.md",
     "Country/Indonesia.md",
     "Country/Canada.md",
