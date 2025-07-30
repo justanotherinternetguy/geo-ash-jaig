@@ -1,1 +1,1 @@
-- some parts of France look like suburban/rural Britain but with shingled roofs while Britain has more wood/concrete
+- some parts of Frances look like suburban/rural Britain but with shingled roofs while Britain has more wood/concrete
