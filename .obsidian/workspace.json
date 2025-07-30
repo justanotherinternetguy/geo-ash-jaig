@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "73ad56ecf7027b05",
+        "id": "be55aec1f17cfc67",
         "type": "tabs",
         "children": [
           {
-            "id": "cb832ac2afa56bbf",
+            "id": "bbf4cea3a581eec1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/core-plugins.json",
-                "bFile": ".obsidian/core-plugins.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: core-plugins.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -159,11 +155,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,16 +174,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb832ac2afa56bbf",
+  "active": "4fde2ad24ac4288f",
   "lastOpenFiles": [
-    "Car Gens.md",
-    "Car Meta.md",
     "SE Asia Languages.md",
-    "Nordic.md",
+    "Region/South Africa.md",
+    "Country",
+    "Country/Car Gens.md",
+    "Country/Car Meta.md",
+    "Country/Nordic.md",
     "Random.md",
     "Region/Australia.md",
     "Region/United States of America (USA).md",
-    "Region/South Africa.md",
     "Region/Indonesia.md",
     "Region/Canada.md",
     "Region/Chile.md",
