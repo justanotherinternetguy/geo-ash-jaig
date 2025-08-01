@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "11185364b216acf4",
+        "id": "2df0bdbecae55f4e",
         "type": "tabs",
         "children": [
           {
-            "id": "b722687ed829103c",
+            "id": "8ec0946e3df314ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Country/Australia.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Australia"
+              "title": "New tab"
             }
           }
         ]
@@ -179,35 +175,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b722687ed829103c",
+  "active": "8ec0946e3df314ff",
   "lastOpenFiles": [
-    "Country/USA/Adopt a Highway.md",
-    "Country/Australia.md",
     "Country/USA/United States of America (USA).md",
+    "Images/Pasted image 20250731013408.png",
+    "Images/Pasted image 20250731013348.png",
+    "Images/Pasted image 20250731013007.png",
+    "Images/Pasted image 20250731011332.png",
+    "Images/Pasted image 20250731011242.png",
+    "Images/Pasted image 20250731010921.png",
+    "Images/Pasted image 20250731010609.png",
+    "Images/Pasted image 20250730230754.png",
+    "Country/Canada.md",
+    "Country/Australia.md",
+    "Country/USA/Adopt a Highway.md",
     "Country/USA",
     "Country/South Africa.md",
     "Images/Pasted image 20250730013313.png",
     "Images/Pasted image 20250730013147.png",
-    "Images/Pasted image 20250730013646.png",
-    "Images/Pasted image 20250730011141.png",
     "Languages.md",
     "Random.md",
     "Meta/Car Meta.md",
-    "Images/Pasted image 20250730000501.png",
     "Meta/Car Gens.md",
     "Region/Untitled.md",
-    "Images/Pasted image 20250729231650.png",
     "Meta/Nordic.md",
     "Country/Chile.md",
     "Country/Indonesia.md",
-    "Country/Canada.md",
     "SE Asia Languages.md",
     "Meta",
-    "Images/Pasted image 20250729204116.png",
-    "Images/Pasted image 20250729204108.png",
     "Country",
-    "Images/Pasted image 20250729163951.png",
-    "Images/Pasted image 20250729163919.png",
     "Images"
   ]
 }
