@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2df0bdbecae55f4e",
+        "id": "dc6869455e9b0352",
         "type": "tabs",
         "children": [
           {
-            "id": "8ec0946e3df314ff",
+            "id": "1c30840ac3165101",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Country/Mexico.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mexico"
             }
           }
         ]
@@ -175,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ec0946e3df314ff",
+  "active": "1c30840ac3165101",
   "lastOpenFiles": [
+    "Country/Mexico.md",
     "Country/USA/United States of America (USA).md",
     "Images/Pasted image 20250731013408.png",
     "Images/Pasted image 20250731013348.png",
