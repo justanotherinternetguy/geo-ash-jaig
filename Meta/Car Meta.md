@@ -18,6 +18,8 @@ slight blue tint at front of car
 - ![[Pasted image 20250729133633.png]]
 # Kazakhstan
 - same truck as Oman
+- or namibia
+	- has 2 antena
 
 # Turkey (NE)
 ![[Pasted image 20250729163919.png]]

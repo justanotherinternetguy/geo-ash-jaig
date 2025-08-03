@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dc6869455e9b0352",
+        "id": "3572a1722cd94c6e",
         "type": "tabs",
         "children": [
           {
-            "id": "1c30840ac3165101",
+            "id": "ac6c9ab08c3f0efc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Country/Mexico.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mexico"
+              "title": "README"
             }
           }
         ]
@@ -179,8 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c30840ac3165101",
+  "active": "ac6c9ab08c3f0efc",
   "lastOpenFiles": [
+    "README.md",
+    "Random.md",
+    "Images/Pasted image 20250803011412.png",
+    "Images/Pasted image 20250803010701.png",
+    "Meta/Car Meta.md",
+    "Meta/Car Gens.md",
     "Country/Mexico.md",
     "Country/USA/United States of America (USA).md",
     "Images/Pasted image 20250731013408.png",
@@ -196,12 +202,7 @@
     "Country/USA/Adopt a Highway.md",
     "Country/USA",
     "Country/South Africa.md",
-    "Images/Pasted image 20250730013313.png",
-    "Images/Pasted image 20250730013147.png",
     "Languages.md",
-    "Random.md",
-    "Meta/Car Meta.md",
-    "Meta/Car Gens.md",
     "Region/Untitled.md",
     "Meta/Nordic.md",
     "Country/Chile.md",
